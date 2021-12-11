@@ -1,7 +1,6 @@
 {
   "name": "web2-nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -20,6 +19,8 @@
   },
   "homepage": "https://github.com/web-n/Nodejs#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "sanitize-html": "^1.18.2"
-  }
+  },
+  "description": ""
 }
